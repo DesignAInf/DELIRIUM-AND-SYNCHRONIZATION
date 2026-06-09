@@ -1,4 +1,4 @@
-# ICU Delirium — Two-Agent POMDP Model (Level-3 + Causal Feedback)
+# ICU Delirium — Two-Agent POMDP Model
 
 **Author:** Luca M. Possati
 **Version:** 3.0.0
